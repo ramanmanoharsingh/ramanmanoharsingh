@@ -4,7 +4,7 @@ I build practical projects across web development, machine learning, data analys
 
 ## Highlights
 
-- 98.2% in CBSE Class 10, with 3rd overall rank
+- 98.2% in CBSE Class 10, with 3rd overall rank in school
 - Maths 99, AI full marks, English 98, SST 98, Science 96
 - 1st place - MP Birla Hackathon event
 - 1st place - Prompt Engineering event
